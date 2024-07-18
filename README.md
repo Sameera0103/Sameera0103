@@ -7,7 +7,7 @@ Aspiring Data Analyst
 - 👯 I’m looking to collaborate on Data Analysis 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sameera-banu-m)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sameera-banu-m-9996a8278/)
 - 😄 Pronouns: She/Her
 
 ### I code in
