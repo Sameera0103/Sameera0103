@@ -11,9 +11,8 @@ c
 
 Skills: SQL / Excel / Power BI / 
 
-## Examples of Work 
-
-<img src="Data Analysis.mp4" width="256" />
+## Examples of Work
+<img sr
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sameera0103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SameeraBanuM/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sameera-banu.carrd.co/)  
