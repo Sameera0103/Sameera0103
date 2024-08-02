@@ -14,10 +14,5 @@ Skills: SQL / Excel / Power BI /
 ## Examples of Work
 <img src = "https://github.com/Sameera0103/Sameera0103/blob/main/Analysis%20Pic.gif" width="256"/>
 
-## My Contribution
-![Sameera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameera0103&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-[![Sameera's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sameera0103&bg_color=1a1a1a&color=b814aa&line=694c9e&point=d6d1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Contact Me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sameera0103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SameeraBanuM/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sameera-banu.carrd.co/)  
