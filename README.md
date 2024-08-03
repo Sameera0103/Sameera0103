@@ -17,5 +17,25 @@ Let's harness the data together ⚡!
 ## Examples of Work
 <img src = "https://github.com/Sameera0103/Sameera0103/blob/main/Analysis%20Pic.gif" width="256"/>
 
+## Sample Videos of My Work
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding: 10px;">
+    <h4>Video 1</h4>
+    <video width="100%" controls>
+      <source src="URL_TO_VIDEO_1" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <h4>Video 2</h4>
+    <video width="100%" controls>
+      <source src="URL_TO_VIDEO_2" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+
 ## Contact Me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sameera0103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SameeraBanuM/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sameera-banu.carrd.co/)  
