@@ -9,7 +9,9 @@ Let's harness the data together ⚡!
 
 ## Skills and Experience
 
-Skills: SQL / Excel / Power BI / 
+• 🛢️ SQL
+• 📊 Excel
+• 📉 Power BI 
 
 ## Examples of Work
 <img src = "https://github.com/Sameera0103/Sameera0103/blob/main/Analysis%20Pic.gif" width="256"/>
