@@ -23,14 +23,14 @@ Let's harness the data together ⚡!
   <div style="flex: 1; padding: 10px;">
     <h4>Video 1</h4>
     <video width="100%" controls>
-      <source src="URL_TO_VIDEO_1" type="video/mp4">
+      <source src="https://github.com/Sameera0103/Sameera0103/blob/main/budget%20sales%20analysis%20.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
   <div style="flex: 1; padding: 10px;">
     <h4>Video 2</h4>
     <video width="100%" controls>
-      <source src="URL_TO_VIDEO_2" type="video/mp4">
+      <source src="https://github.com/Sameera0103/Sameera0103/blob/main/employee%20attrition%20.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
