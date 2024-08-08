@@ -8,12 +8,15 @@ Enthusiastic data analytics fresher with a strong passion for turning data into 
 
 Let's harness the data together ⚡! 
 
+
+## Skills and Experience
 • 🛢️ SQL
 • 📊 Excel
 • 📉 Power BI 
+
+## My Works
 <img src = "https://github.com/Sameera0103/Sameera0103/blob/main/Analysis%20Pic.gif" width="256" />
 
-## Skills and Experience
 
 ## Contact Me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sameera0103)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SameeraBanuM/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sameera-banu.carrd.co/)  
