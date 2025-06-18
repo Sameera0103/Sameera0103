@@ -1,18 +1,23 @@
 ### Hi there 👋, I'm Sameera Banu M
-#### Data Analyst | BI Developer
+#### AI/ML Developer | BI Developer
 ![Data Analyst | BI Developer](https://media.licdn.com/dms/image/D5616AQE3_GyjJ3jgnw/profile-displaybackgroundimage-shrink_350_1400/0/1720885796292?e=1727913600&v=beta&t=GXJKJIjWQl1fwpIa3YrATA3rPr8HCKDbfVqQIlY6A8I)
 
 ## Sameera Banu M
 
-Enthusiastic data analytics fresher with a strong passion for turning data into actionable insights, ready to drive impactful business decisions.
+- 👩‍💻 I’m passionate about building intelligent systems and solving real-world problems using technology.
+- 🌱 Currently expanding my skills in system design, deep learning, and cloud deployment.
+- ⚙️ Enjoy learning by building — from web apps to machine learning models.
+- 🌐 Open to collaboration and internship opportunities in Software & AI Development.
+- ✍️ I love sharing knowledge through open-source projects and community work.
 
-Let's harness the data together ⚡! 
 
+### 🔧 Technical Skills
 
-## Skills and Experience
-• 🛢️ SQL
-• 📊 Excel
-• 📉 Power BI 
+- **Languages**: Python, SQL, HTML, CSS
+- **Data Analysis**: Pandas, NumPy, Excel, Power BI, Tableau
+- **Machine Learning**: scikit-learn, EfficientNet, Explainable AI (XAI)
+- **Tools**: Jupyter Notebook, FastAPI, VS Code, Git & GitHub
+- **Databases**: MySQL, Oracle SQL
 
 ## My Works
 <img src = "https://github.com/Sameera0103/Sameera0103/blob/main/Analysis%20Pic.gif" width="256" />
