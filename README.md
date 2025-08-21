@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sameera Banu M
-#### AI/ML Developer | BI Developer
-![AI/ML Developer | BI Developer](https://media.licdn.com/dms/image/v2/D5616AQE3_GyjJ3jgnw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720885796292?e=1755734400&v=beta&t=do-0qgWmdv1u1iRE8W_9XQxl4AHFH73OBkk65vn1H60)
+#### Data Analyst | BI Developer
+![Data Analyst | BI Developer](https://media.licdn.com/dms/image/v2/D5616AQE3_GyjJ3jgnw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720885796292?e=1755734400&v=beta&t=do-0qgWmdv1u1iRE8W_9XQxl4AHFH73OBkk65vn1H60)
 
 ## Sameera Banu M
 
